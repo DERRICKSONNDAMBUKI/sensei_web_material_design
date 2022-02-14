@@ -1,0 +1,19 @@
+{
+  "name": "web-material-design",
+  "version": "2.0.0",
+  "description": "Sensei on web material design",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DERRICKSONNDAMBUKI/sensei_web_material_design.git"
+  },
+  "author": "Ricky Sensei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DERRICKSONNDAMBUKI/sensei_web_material_design/issues"
+  },
+  "homepage": "https://github.com/DERRICKSONNDAMBUKI/sensei_web_material_design#readme"
+}
